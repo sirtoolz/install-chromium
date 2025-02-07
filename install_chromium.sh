@@ -93,8 +93,8 @@ echo -e "\e[1;33m🚀 Starting Chromium container...\e[0m"
 docker compose up -d
 
 echo -e "\e[1;32m✅ Setup complete! Access Chromium via port 3010.\e[0m"
-echo -e "\e[1;32m✅ To Access Your Chromium visit http://Replace-With-VPS-IP-Address:3010/ with a normal browser.\e[0m"
-echo -e "\e[1;32m✅ Your address will look similar to this http://101.251.217.197:3010/.\e[0m"
-echo -e "\e[1;32m✅ Login with your username and password.\e[0m"
+echo -e "\e[1;32m✅ To Access Your Chromium visit http://Replace-With-VPS-IP-Address:3010/ with a normal browser\e[0m"
+echo -e "\e[1;32m✅ Your address will look similar to this http://101.251.217.197:3010\e[0m"
+echo -e "\e[1;32m✅ Login with your username and password\e[0m"
 echo -e "🔥 \e[1;35mJoin my Telegram for more tools: https://t.me/sirtoolzalpha\e[0m"
 echo -e "🐦 \e[1;36mFollow me on Twitter: https://twitter.com/sirtoolz\e[0m"
