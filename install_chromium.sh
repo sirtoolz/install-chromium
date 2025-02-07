@@ -61,7 +61,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=$(timedatectl show --property=Timezone --value)
-      - CHROME_CLI=https://github.com/0xmoei
+      - CHROME_CLI=https://github.com/sirtoolz
     volumes:
       - /root/chromium/config:/config
     ports:
